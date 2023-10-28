@@ -1,2 +1,2 @@
  # Created locally
-    V=By Armul
+By Armul
